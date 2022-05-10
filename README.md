@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem
 - 👀 I’m interested in aviation and IT 🛩
-- 🌱 I’m currently learning HTML,CSS, JavaScript + IT recruting | PM | IT People Managment 
+- 🌱 I’m currently learning HTML,CSS, JavaScript
 
 
 <!---
