@@ -3,7 +3,7 @@
 <br />
 **About Me!**
 
-- 👨🏽‍💻 I’m a soldier in Elbrus Coding Bootcamp 😎
+- 👨🏽‍💻 I’m a code-soldier in Elbrus Coding Bootcamp 😎
 - 🌱 I’m currently exploring JavaScript.
 - 🤔 My interest lies in Full-stack development.
 - 💬 Ask me about anything at Telegram [@artkarasev](https://telegram.me/artkarasev)
