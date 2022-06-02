@@ -1,9 +1,5 @@
-<h3 title="hehehe"> Hey 👋, I'm Artem!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Artem! Welcome on board!</h3>
 
-<a href="[https://www.linkedin.com/in/jaskirat-singh-009348178](https://www.linkedin.com/in/artemkarasev/)">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
 <br />
 **About Me!**
 
