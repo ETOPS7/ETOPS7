@@ -3,7 +3,6 @@
 <br />
 **About Me!**
 
-- 👨🏽‍💻 I’m a code-soldier in Elbrus Coding Bootcamp 😎
 - 🌱 I’m currently exploring JavaScript.
 - 🤔 My interest lies in Full-stack development.
 - 💬 Ask me about anything at Telegram [@artkarasev](https://telegram.me/artkarasev)
@@ -17,4 +16,4 @@
 
 Credit: [Artem Karasev](https://github.com/ETOPS7)
 
-Last Edited on: 01/06/2022
+Last Edited on: 01/07/2022
