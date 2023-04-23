@@ -4,6 +4,7 @@
 - 🌱 I’m currently working on WEB3 projects.
 - 🤔 My interest lies in Full-stack development.
 - 💬 Ask me about anything at Telegram [@artkarasev](https://telegram.me/artkarasev)
+- Live in 🇨🇦
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
