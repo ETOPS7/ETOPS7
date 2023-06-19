@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋,  I'm Artem Karasev</h1>
 <br />
 
-- 🌱 I’m currently working on WEB3 projects.
+- 🌱 I’m currently working on gamedev projects.
 - 🤔 My interest lies in Full-stack development.
 - 💬 Ask me about anything at Telegram [@artkarasev](https://telegram.me/artkarasev)
 - 🇨🇦 I'm from Vancouver
