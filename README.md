@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋,  I'm Artem Karasev</h1>
+<h1 align="left">Hi 👋,  I'm Artem</h1>
 <br />
 
-- 🌱 I’m currently working on gamedev projects.
+- 🌱 I’m currently working on Gamedev MVP's projects.
 - 🤔 My interest lies in Full-stack development.
 - 💬 Ask me about anything at Telegram [@artkarasev](https://telegram.me/artkarasev)
 - 🇨🇦 I'm from Vancouver
