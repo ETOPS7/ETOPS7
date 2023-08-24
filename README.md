@@ -4,7 +4,7 @@
 
 Software developer based in Vancouver 🇨🇦, specializing in building user-friendly web applications, product design features and user interfaces
 
-🖼️ My interest lies in **Frontend** and **Fullstack development**
+🖼️ My interest lies in **Frontend** and **Fullstack development**  
 💬 Ask me about anything at ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) [@artkarasev](https://telegram.me/artkarasev)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
