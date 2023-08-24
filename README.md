@@ -2,7 +2,9 @@
 
 <h2> Welcome 👋 , I'm Artem</h2>
 
-Software developer based in Vancouver 🇨🇦, specializing in building user-friendly web applications, product design features and user interfaces
+👨‍💻 Software developer based in Vancouver 🇨🇦, specializing in building user-friendly web applications, product design features and user interfaces.
+
+🐤 Engaged in **tech mentoring**, conducting **mock interviews** and volunteering, showcasing a strong dedication to our community development.
 
 🖼️ My interest lies in **Frontend** and **Fullstack development**  
 💬 Ask me about anything at ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) [@artkarasev](https://telegram.me/artkarasev)
