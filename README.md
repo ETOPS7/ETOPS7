@@ -1,12 +1,12 @@
 
 
-<h2> Welcome 👋 , I'm Artem</h2>
+<h3> Welcome 👋</h2>
 
-👨‍💻 Software developer based in Vancouver 🇨🇦, specializing in building user-friendly web applications, product design features and user interfaces.
+👨‍💻 I'm Artem, a software developer based in Vancouver 🇨🇦, specializing in building user-friendly web applications, product design features and user interfaces.
 
 🐤 Engaged in **tech mentoring**, conducting **mock interviews** and volunteering, showcasing a strong dedication to our community development.
 
-🖼️ My interest lies in **Frontend** and **Fullstack development**  
+🖼️ My interest lies in **frontend** and **fullstack development**  
 💬 Ask me about anything at ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white) [@artemkarasev](https://www.linkedin.com/in/artemkarasev/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -25,4 +25,4 @@
 <br/>
 
 Credit: *Artem Karasev*  
-Last Edited on: *6/09/2023*
+Last Edited on: *6/10/2023*
